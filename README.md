@@ -37,11 +37,7 @@ Polynomial regression improves flexibility but requires careful degree selection
 Proper evaluation and visualization are critical for model comparison.
 👨‍💻 How to Run
 Clone the repository:
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-
+git clone https://github.com/MustafaBasit521/-Student-Score-Prediction.git
 Open the notebooks in Google Colab or Jupyter Notebook.
-
 Upload the dataset (StudentPerformanceFactors.csv) when prompted.
-
 Run all cells to reproduce results.
